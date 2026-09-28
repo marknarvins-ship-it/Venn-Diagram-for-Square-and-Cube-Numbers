@@ -1,1 +1,1 @@
-This is a Python Program for Venn Diagram that I did for Square and Cube Numbers between 1 and 1000.
+This is a Python Program for Venn Diagram involving Square and Cube Numbers between 1 and 1000. It was done to deduce which numbers between 1 and 1000 are both Square and Cube Numbers (you will see it overlap in said Venn Diagram).
